@@ -4,7 +4,7 @@
 
 This is work that I did in Microsoft Azure during my Data Technician Skills Bootcamp.
 
-I used the Labs on W3Schools to familiarise myself with the Azure, and learn content necessary to be able to sit the DP-900 exam.
+I used the Labs on Skillable to familiarise myself with the Azure, and learn content necessary to be able to sit the DP-900 exam.
 
 ## Lab 1 - Explore Relational Data in Azure
 <img width="393" alt="Lab1" src="https://github.com/user-attachments/assets/83d9fa79-5a84-4fdf-8833-5b6c9ed9f885" />
